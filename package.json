@@ -1,0 +1,12 @@
+{
+  "name": "millv66",
+  "version": "1.0.0",
+  "description": "Brawl Stars V66 server — Node.js",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
